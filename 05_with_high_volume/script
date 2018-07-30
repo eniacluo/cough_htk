@@ -1,0 +1,100 @@
+#!/bin/bash
+
+CUR=/home/zhiwei/cough
+OBJ=Cough_zhiwei_0312
+# for((i=1;i<=100;i++)); do echo $CUR/htk/wav/noise$i.wav $CUR/htk/mfc/noise$i.mfc >> noise.scp; done
+# for((i=1;i<=400;i++)); do echo $CUR/htk/wav/cough$i.wav $CUR/htk/mfc/cough$i.mfc >> cough.scp; done
+# for((i=1;i<=939;i++)); do echo $CUR/speech/seg/speech$i.wav $CUR/speech/seg/speech$i.mfc >> speech.scp; done
+# for((i=1;i<=7;i++)); do echo $CUR/$OBJ/seg$i.wav $CUR/$OBJ/seg$i.mfc >> seg.scp; done
+# for((i=1;i<=70;i++)); do echo $CUR/htk/mfc/noise$i.mfc >> noise_training.scp; done
+# for((i=1;i<=70;i++)); do echo $CUR/htk/mfc/cough$i.mfc >> cough_training.scp; done
+# for((i=1;i<=939;i++)); do echo $CUR/speech/seg/speech$i.mfc >> speech_training.scp; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/mfc/noise$i.mfc >> noise_testing.scp; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/mfc/cough$i.mfc >> cough_testing.scp; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/mfc/speech$i.mfc >> speech_testing.scp; done
+# for((i=171;i<=200;i++)); do echo $CUR/htk/mfc/cough$i.mfc >> cough_testing.scp; done
+# for((i=271;i<=300;i++)); do echo $CUR/htk/mfc/cough$i.mfc >> cough_testing.scp; done
+# for((i=371;i<=400;i++)); do echo $CUR/htk/mfc/cough$i.mfc >> cough_testing.scp; done
+# for((i=1;i<=7;i++)); do echo $CUR/$OBJ/seg$i.mfc >> segment_testing.scp; done
+# for((i=1;i<=25;i++)); do echo COUGH > lab/cough$i.lab; done
+# for((i=1;i<=987;i++)); do echo FILLER > lab/filler$i.lab; done
+# for((i=1;i<=100;i++)); do echo NOISE > lab/noise$i.lab; done
+# for((i=1;i<=100;i++)); do echo SPEECH > lab/speech$i.lab; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/lab/cough$i.lab >> lablist; done
+# for((i=171;i<=200;i++)); do echo $CUR/htk/lab/cough$i.lab >> lablist; done
+# for((i=271;i<=300;i++)); do echo $CUR/htk/lab/cough$i.lab >> lablist; done
+# for((i=371;i<=400;i++)); do echo $CUR/htk/lab/cough$i.lab >> lablist; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/lab/noise$i.lab >> lablist; done
+# for((i=71;i<=100;i++)); do echo $CUR/htk/lab/speech$i.lab >> lablist; done
+# HCopy -T 1 -C hcopy.conf -S cough.scp 
+# HCopy -T 1 -C hcopy.conf -S noise.scp 
+# HCopy -T 1 -C hcopy.conf -S speech.scp
+# HCopy -T 1 -C hcopy.conf -S /home/zhiwei/cough/wav/cough/cough.scp 
+# HCopy -T 1 -C hcopy.conf -S /home/zhiwei/cough/wav/non-cough/filler.scp 
+# HCopy -T 1 -C hcopy.conf $CUR/htk/wav/cough401.wav $CUR/htk/mfc/cough401.mfc
+# HCopy -T 1 -C hcopy.conf $CUR/htk/wav/cough402.wav $CUR/htk/mfc/cough402.mfc
+# HCopy -T 1 -C hcopy.conf $CUR/$OBJ.wav $CUR/$OBJ.mfc
+# HList -T 1 -o -i 13 $CUR/$OBJ.mfc
+# HInit -T 1 -S cough_training.scp -M hmm1 cough 
+# HInit -T 1 -S noise_training.scp -M hmm2 noise 
+# HInit -T 1 -S speech_training.scp -M hmm3 speech 
+# HInit -T 1 -S filler_training.scp -M hmm0 filler 
+# HRest -T 1 -S cough_training.scp -M hmm1 ./hmm1/cough 
+# HRest -T 1 -S noise_training.scp -M hmm2 ./hmm2/noise 
+# HRest -T 1 -S speech_training.scp -M hmm3 ./hmm3/speech 
+# HRest -T 1 -S filler_training.scp -M hmm0 ./hmm0/filler
+# edit gram.txt & dict.txt
+# HParse -T 1 gram.txt net.slf
+# HVite -T 1 -w net.slf -S cough_testing.scp -H hmm1/cough -H hmm2/noise -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -S noise_testing.scp -H hmm1/cough -H hmm2/noise -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -S speech_testing.scp -H hmm1/cough -H hmm2/noise -H hmm3/speech -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -S segment_testing.scp -H hmm1/cough -H hmm0/filler -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -S all_testing.scp -H hmm1/cough -H hmm0/filler -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -S cough_testing.scp -H hmm1/cough -H hmm0/filler -i result dict.txt hmmlist
+# HVite -T 1 -w net.slf -H hmm1/cough -H hmm0/filler -i result dict.txt hmmlist $CUR/$OBJ.mfc
+# HResults -L lab lablist result
+# find /home/zhiwei/cough/htk/wav/others/ -name *.wav > cough_new_list.scp
+# cat cough_new_list.scp | awk -F '.' '{print $1".wav "$1".mfc"}' > cough_new.scp
+# cat cough_new_list.scp | awk -F '.' 'BEGIN{i=1;} { system("mv "$1".wav ./wav/others/"i".wav"); i++}'
+# rename 's/^/cough/;' *.mfc
+# for((i=1;i<6;i++)); do rm filler_training$i.scp;rm filler_testing$i.scp;rm cough_training$i.scp;rm cough_testing$i.scp; done;
+
+
+####  generate the HMM prototype  ####
+./generate_hmm.py cough 13 10 1
+./generate_hmm.py speech 13 3 1
+./generate_hmm.py scream 13 10 1
+
+####  generate cross-validation samples  ####
+./cross-validation.py cough
+./cross-validation.py filler
+
+####  training #######
+for((i=1; i<=5; i++));
+do
+    HInit -T 1 -i 100 -S cough_training$i.scp -M hmm1 cough 
+    HInit -T 1 -i 100 -S filler_training$i.scp -M hmm0 speech
+    HInit -T 1 -i 100 -S scream_list.scp -M hmm0 scream
+    HRest -T 1 -S cough_training$i.scp -M hmm1 ./hmm1/cough 
+    HRest -T 1 -S filler_training$i.scp -M hmm0 ./hmm0/speech
+    HRest -T 1 -S scream_list.scp -M hmm0 ./hmm0/scream
+    # cat cough_testing$i.scp filler_testing$i.scp > testing$i.scp
+    # HVite -w net.slf -S cough_testing$i.scp -H hmm1/cough -H hmm0/filler -i result -n 2 2 dict.txt hmmlist
+    # HResults lablist result
+    HVite -T 1 -w net.slf -S scream_list.scp -H hmm1/cough -H hmm0/speech -H hmm0/scream -i result -n 3 3 dict.txt hmmlist
+    # HResults lablist result
+    # HVite -w net.slf -S testing$i.scp -H hmm1/cough -H hmm0/filler -i result -n 2 2 dict.txt hmmlist
+    # HResults lablist result
+done;
+
+rm cough_training* cough_testing* filler_training* filler_testing* #testing*
+
+# cat train_balanced.csv | awk -F ',' 'BEGIN{i=1;} {print "https://www.youtube.com/watch?v="$1 ; i++}' > train_balanced_link.txt
+# cat train_unbalanced.csv | awk -F ',' 'BEGIN{i=1;} {print "https://www.youtube.com/watch?v="$1 ; i++}' > train_unbalanced_link.txt
+# cat eval.csv | awk -F ',' 'BEGIN{i=1;} {print "https://www.youtube.com/watch?v="$1 ; i++}' > eval_link.txt
+# cat cough_wav_list.scp | awk -F '.' '{print $1".wav "$1".mfc"}' > cough_copy_list.scp
+# cat cough_wav_list.scp | awk -F '.' '{print $1".mfc"}' > cough_list.scp
+# HCopy -T 1 -C hcopy.conf -S cough_copy_list.scp 
+# cat balanced.txt | awk -F '.' '{print $1".lab"}' > lab_list.scp
+# cat lab_list.scp | awk '{ system("cp clab "$1);}'
+# ./script | grep WORD:\ %Corr | awk '{print $3}' | awk -F '=' 'BEGIN{a=0;} {a=a+$2} END{print(a/5)}'

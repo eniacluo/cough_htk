@@ -1,0 +1,30 @@
+#!/bin/bash
+
+####  feature extraction wav -> mfc  ####
+#cat cough_wav_list.scp | awk -F '.' '{print $1".wav "$1".mfc"}' > cough_copy_list.scp
+#HCopy -T 1 -C hcopy.conf -S cough_copy_list.scp 
+#cat cough_wav_list.scp | awk -F '.' '{print $1".mfc"}' > cough_list.scp
+
+####  generate the HMM prototype  ####
+./generate_hmm.py cough 13 10 1
+./generate_hmm.py filler 13 3 1
+
+####  generate cross-validation samples  ####
+./cross-validation.py cough
+./cross-validation.py filler
+
+####  training and testing  #######
+for((i=1; i<=5; i++));
+do
+    HInit -T 1 -i 100 -S cough_training$i.scp -M hmm1 cough 
+    HInit -T 1 -i 100 -S filler_training$i.scp -M hmm0 filler 
+    HRest -T 1 -S cough_training$i.scp -M hmm1 ./hmm1/cough 
+    HRest -T 1 -S filler_training$i.scp -M hmm0 ./hmm0/filler
+    HVite -w net.slf -S cough_testing$i.scp -H hmm1/cough -H hmm0/filler -i result -n 2 2 dict.txt hmmlist
+    HResults lablist result
+    HVite -w net.slf -S filler_testing$i.scp -H hmm1/cough -H hmm0/filler -i result -n 2 2 dict.txt hmmlist
+    HResults lablist result
+done;
+
+rm cough_training* cough_testing* filler_training* filler_testing* testing*
+

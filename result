@@ -1,0 +1,991 @@
+#!MLF!#
+"/home/zhiwei/cough/htk/wav/non-cough/filler899.rec"
+0 10000000 FILLER -4141.413086
+///
+0 10000000 COUGH -4200.880371
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler587.rec"
+0 7500000 FILLER -3212.732910
+///
+0 7500000 COUGH -3291.084961
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler398.rec"
+0 3000000 FILLER -1251.928711
+///
+0 3000000 COUGH -1300.351562
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler789.rec"
+0 1100000 FILLER -450.407745
+///
+0 1100000 COUGH -551.403931
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler613.rec"
+0 5800000 FILLER -2508.043945
+///
+0 5800000 COUGH -2597.309814
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler528.rec"
+0 9500000 FILLER -3909.708008
+///
+0 9500000 COUGH -4007.064453
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler58.rec"
+0 5000000 FILLER -2088.018555
+///
+0 5000000 COUGH -2097.964844
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler668.rec"
+0 1200000 FILLER -485.067627
+///
+0 1200000 COUGH -508.578674
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler876.rec"
+0 5700000 FILLER -2467.267822
+///
+0 5700000 COUGH -2538.671875
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler646.rec"
+0 1200000 FILLER -629.446350
+///
+0 1200000 COUGH -747.044067
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler610.rec"
+0 1100000 FILLER -501.322906
+///
+0 1100000 COUGH -524.275146
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler414.rec"
+0 1400000 FILLER -605.016174
+///
+0 1400000 COUGH -616.874695
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler220.rec"
+0 1400000 FILLER -616.978821
+///
+0 1400000 COUGH -654.403198
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler432.rec"
+0 1200000 FILLER -510.387665
+///
+0 1200000 COUGH -613.699097
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler888.rec"
+0 1800000 FILLER -747.994873
+///
+0 1800000 COUGH -823.435486
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler636.rec"
+0 6900000 FILLER -2898.950928
+///
+0 6900000 COUGH -2957.802002
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler461.rec"
+0 2900000 FILLER -1225.975342
+///
+0 2900000 COUGH -1247.340088
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler114.rec"
+0 800000 FILLER -366.102875
+///
+0 800000 COUGH -446.211609
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler677.rec"
+0 5700000 FILLER -2432.086914
+///
+0 5700000 COUGH -2477.999756
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler47.rec"
+0 4700000 COUGH -1861.388062
+///
+0 4700000 FILLER -1888.231445
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler476.rec"
+0 12500000 FILLER -5555.706055
+///
+0 12500000 COUGH -5570.279297
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler947.rec"
+0 3600000 FILLER -1499.029663
+///
+0 3600000 COUGH -1565.893799
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler548.rec"
+0 5600000 FILLER -2215.368408
+///
+0 5600000 COUGH -2231.649414
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler100.rec"
+0 8400000 FILLER -3573.150146
+///
+0 8400000 COUGH -3618.900879
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler919.rec"
+0 1300000 FILLER -536.591919
+///
+0 1300000 COUGH -561.011597
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler174.rec"
+0 4600000 FILLER -1961.506592
+///
+0 4600000 COUGH -2105.289062
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler869.rec"
+0 1700000 FILLER -722.673340
+///
+0 1700000 COUGH -850.912415
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler522.rec"
+0 4500000 FILLER -1851.200928
+///
+0 4500000 COUGH -1897.721313
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler922.rec"
+0 1100000 COUGH -520.477661
+///
+0 1100000 FILLER -528.630676
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler870.rec"
+0 6100000 FILLER -2503.578857
+///
+0 6100000 COUGH -2527.401855
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler779.rec"
+0 1000000 FILLER -401.022766
+///
+0 1000000 COUGH -435.817230
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler733.rec"
+0 2200000 FILLER -919.311279
+///
+0 2200000 COUGH -1074.272583
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler470.rec"
+0 4500000 FILLER -1886.324829
+///
+0 4500000 COUGH -2012.505249
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler99.rec"
+0 5300000 FILLER -2282.029053
+///
+0 5300000 COUGH -2378.637695
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler341.rec"
+0 2800000 FILLER -1206.394897
+///
+0 2800000 COUGH -1289.351562
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler651.rec"
+0 1000000 FILLER -467.851349
+///
+0 1000000 COUGH -476.188202
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler673.rec"
+0 2900000 FILLER -1211.259644
+///
+0 2900000 COUGH -1368.425659
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler166.rec"
+0 1200000 FILLER -494.704559
+///
+0 1200000 COUGH -511.157440
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler618.rec"
+0 1500000 FILLER -659.155457
+///
+0 1500000 COUGH -661.059387
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler356.rec"
+0 1600000 FILLER -711.306274
+///
+0 1600000 COUGH -774.956970
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler557.rec"
+0 5700000 FILLER -2508.522461
+///
+0 5700000 COUGH -2578.907227
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler560.rec"
+0 1600000 FILLER -694.928894
+///
+0 1600000 COUGH -760.744812
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler767.rec"
+0 3100000 FILLER -1284.596191
+///
+0 3100000 COUGH -1369.474487
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler164.rec"
+0 1700000 FILLER -708.846924
+///
+0 1700000 COUGH -796.896423
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler252.rec"
+0 1200000 FILLER -507.733429
+///
+0 1200000 COUGH -543.358765
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler575.rec"
+0 1200000 FILLER -523.456116
+///
+0 1200000 COUGH -603.936584
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler570.rec"
+0 1600000 FILLER -664.714111
+///
+0 1600000 COUGH -701.602661
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler167.rec"
+0 800000 FILLER -391.296082
+///
+0 800000 COUGH -524.297668
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler310.rec"
+0 2400000 FILLER -1008.215759
+///
+0 2400000 COUGH -1058.814453
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler808.rec"
+0 15100000 FILLER -6307.258789
+///
+0 15100000 COUGH -6535.458984
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler730.rec"
+0 1300000 FILLER -518.290100
+///
+0 1300000 COUGH -584.550781
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler840.rec"
+0 1600000 FILLER -665.017822
+///
+0 1600000 COUGH -703.997925
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler36.rec"
+0 4500000 COUGH -1909.689453
+///
+0 4500000 FILLER -2011.078857
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler518.rec"
+0 1000000 FILLER -404.038605
+///
+0 1000000 COUGH -478.885437
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler237.rec"
+0 6800000 FILLER -2856.197998
+///
+0 6800000 COUGH -2878.965820
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler330.rec"
+0 3000000 FILLER -1238.924805
+///
+0 3000000 COUGH -1315.568237
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler986.rec"
+0 2500000 FILLER -988.514648
+///
+0 2500000 COUGH -1007.519531
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler968.rec"
+0 7700000 FILLER -3311.626221
+///
+0 7700000 COUGH -3444.332520
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler663.rec"
+0 4300000 FILLER -1765.172119
+///
+0 4300000 COUGH -1874.813965
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler43.rec"
+0 4300000 COUGH -1733.573730
+///
+0 4300000 FILLER -1797.126221
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler973.rec"
+0 5700000 FILLER -2414.022461
+///
+0 5700000 COUGH -2611.178467
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler269.rec"
+0 2700000 COUGH -1238.588013
+///
+0 2700000 FILLER -1258.709839
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler491.rec"
+0 1000000 FILLER -413.033173
+///
+0 1000000 COUGH -442.095917
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler583.rec"
+0 2100000 FILLER -908.670044
+///
+0 2100000 COUGH -965.026978
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler229.rec"
+0 6000000 FILLER -2572.955322
+///
+0 6000000 COUGH -2603.468750
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler982.rec"
+0 2300000 COUGH -942.372559
+///
+0 2300000 FILLER -943.074585
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler482.rec"
+0 1900000 FILLER -893.807861
+///
+0 1900000 COUGH -973.945068
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler378.rec"
+0 1600000 COUGH -779.562500
+///
+0 1600000 FILLER -784.876892
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler65.rec"
+0 3200000 FILLER -1346.871826
+///
+0 3200000 COUGH -1399.575439
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler771.rec"
+0 1200000 FILLER -498.751129
+///
+0 1200000 COUGH -595.378906
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler831.rec"
+0 1800000 COUGH -792.836426
+///
+0 1800000 FILLER -844.536560
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler471.rec"
+0 2500000 FILLER -1105.289185
+///
+0 2500000 COUGH -1109.395264
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler586.rec"
+0 3700000 FILLER -1526.309570
+///
+0 3700000 COUGH -1592.531616
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler379.rec"
+0 6100000 FILLER -2502.992432
+///
+0 6100000 COUGH -2537.214111
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler51.rec"
+0 1800000 FILLER -814.813660
+///
+0 1800000 COUGH -925.833740
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler131.rec"
+0 1700000 FILLER -727.181885
+///
+0 1700000 COUGH -819.923706
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler158.rec"
+0 900000 FILLER -415.041565
+///
+0 900000 COUGH -546.726257
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler126.rec"
+0 1100000 FILLER -446.793243
+///
+0 1100000 COUGH -507.584442
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler255.rec"
+0 2100000 FILLER -906.057068
+///
+0 2100000 COUGH -1000.839783
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler943.rec"
+0 21600000 FILLER -9862.402344
+///
+0 21600000 COUGH -10032.982422
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler617.rec"
+0 2000000 FILLER -860.852722
+///
+0 2000000 COUGH -920.752441
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler507.rec"
+0 3000000 FILLER -1380.932007
+///
+0 3000000 COUGH -1470.244141
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler634.rec"
+0 1700000 FILLER -707.224426
+///
+0 1700000 COUGH -727.291077
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler128.rec"
+0 900000 FILLER -368.125519
+///
+0 900000 COUGH -410.684021
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler291.rec"
+0 6400000 FILLER -2747.656494
+///
+0 6400000 COUGH -2861.581299
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler503.rec"
+0 1700000 FILLER -737.016846
+///
+0 1700000 COUGH -783.560059
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler375.rec"
+0 5900000 FILLER -2477.798584
+///
+0 5900000 COUGH -2609.928955
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler658.rec"
+0 3700000 COUGH -1791.980347
+///
+0 3700000 FILLER -1959.047241
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler23.rec"
+0 5800000 FILLER -2603.623291
+///
+0 5800000 COUGH -2732.341797
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler952.rec"
+0 1900000 FILLER -779.744507
+///
+0 1900000 COUGH -859.446167
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler290.rec"
+0 2000000 FILLER -888.847229
+///
+0 2000000 COUGH -891.789429
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler78.rec"
+0 5100000 FILLER -2259.022949
+///
+0 5100000 COUGH -2341.921875
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler382.rec"
+0 2000000 COUGH -783.098633
+///
+0 2000000 FILLER -786.073914
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler413.rec"
+0 4500000 FILLER -1903.041626
+///
+0 4500000 COUGH -1920.972778
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler188.rec"
+0 4100000 FILLER -1727.735229
+///
+0 4100000 COUGH -1758.913696
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler833.rec"
+0 2900000 FILLER -1311.899536
+///
+0 2900000 COUGH -1346.817505
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler314.rec"
+0 2200000 FILLER -942.888977
+///
+0 2200000 COUGH -997.652161
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler653.rec"
+0 2800000 FILLER -1235.402222
+///
+0 2800000 COUGH -1286.999023
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler386.rec"
+0 2000000 FILLER -810.181396
+///
+0 2000000 COUGH -867.130981
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler861.rec"
+0 2400000 FILLER -984.313293
+///
+0 2400000 COUGH -1016.428772
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler479.rec"
+0 2500000 FILLER -1069.358765
+///
+0 2500000 COUGH -1105.181641
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler79.rec"
+0 3900000 FILLER -1619.196533
+///
+0 3900000 COUGH -1696.017700
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler113.rec"
+0 25400000 FILLER -11309.751953
+///
+0 25400000 COUGH -11400.789062
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler108.rec"
+0 1400000 FILLER -584.950867
+///
+0 1400000 COUGH -624.576538
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler228.rec"
+0 1800000 FILLER -809.179504
+///
+0 1800000 COUGH -874.083862
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler600.rec"
+0 1300000 FILLER -551.146301
+///
+0 1300000 COUGH -638.096680
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler859.rec"
+0 7600000 FILLER -3256.964844
+///
+0 7600000 COUGH -3375.563232
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler599.rec"
+0 1100000 FILLER -449.506409
+///
+0 1100000 COUGH -468.127930
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler195.rec"
+0 2100000 FILLER -991.359985
+///
+0 2100000 COUGH -1005.328613
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler839.rec"
+0 7900000 FILLER -3376.067627
+///
+0 7900000 COUGH -3461.635254
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler40.rec"
+0 3800000 COUGH -1592.800293
+///
+0 3800000 FILLER -1703.991943
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler881.rec"
+0 4600000 FILLER -1895.599487
+///
+0 4600000 COUGH -2015.009766
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler454.rec"
+0 13500000 FILLER -5719.649902
+///
+0 13500000 COUGH -5873.823730
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler906.rec"
+0 1300000 FILLER -602.648254
+///
+0 1300000 COUGH -606.950317
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler637.rec"
+0 1400000 FILLER -559.114319
+///
+0 1400000 COUGH -590.193481
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler219.rec"
+0 1300000 FILLER -541.487732
+///
+0 1300000 COUGH -556.208496
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler744.rec"
+0 3000000 FILLER -1288.846069
+///
+0 3000000 COUGH -1330.646729
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler978.rec"
+0 2900000 FILLER -1413.525635
+///
+0 2900000 COUGH -1459.172974
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler359.rec"
+0 2000000 FILLER -901.671448
+///
+0 2000000 COUGH -937.592957
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler156.rec"
+0 5800000 COUGH -2605.588135
+///
+0 5800000 FILLER -2606.438477
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler466.rec"
+0 800000 FILLER -331.850372
+///
+0 800000 COUGH -415.681213
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler670.rec"
+0 1900000 FILLER -823.575012
+///
+0 1900000 COUGH -921.669189
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler555.rec"
+0 2100000 FILLER -907.366394
+///
+0 2100000 COUGH -943.776550
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler430.rec"
+0 4800000 FILLER -1962.453979
+///
+0 4800000 COUGH -2038.920776
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler4.rec"
+0 6500000 FILLER -2857.558105
+///
+0 6500000 COUGH -2924.332764
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler950.rec"
+0 5300000 FILLER -2148.647461
+///
+0 5300000 COUGH -2161.787354
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler137.rec"
+0 1500000 FILLER -637.268982
+///
+0 1500000 COUGH -804.616394
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler243.rec"
+0 5500000 FILLER -2267.550781
+///
+0 5500000 COUGH -2351.484863
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler706.rec"
+0 3300000 FILLER -1362.302612
+///
+0 3300000 COUGH -1430.642822
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler104.rec"
+0 1000000 FILLER -420.693665
+///
+0 1000000 COUGH -455.584961
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler817.rec"
+0 3300000 FILLER -1374.583862
+///
+0 3300000 COUGH -1445.126953
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler695.rec"
+0 2200000 COUGH -963.115051
+///
+0 2200000 FILLER -1012.199951
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler742.rec"
+0 2000000 FILLER -808.628540
+///
+0 2000000 COUGH -827.669800
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler758.rec"
+0 1300000 FILLER -519.357300
+///
+0 1300000 COUGH -551.728088
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler511.rec"
+0 11300000 FILLER -4869.524414
+///
+0 11300000 COUGH -4970.374023
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler478.rec"
+0 900000 FILLER -420.744171
+///
+0 900000 COUGH -455.319916
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler923.rec"
+0 2900000 FILLER -1245.583252
+///
+0 2900000 COUGH -1411.457153
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler854.rec"
+0 1100000 FILLER -473.322662
+///
+0 1100000 COUGH -514.971802
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler45.rec"
+0 9600000 COUGH -3873.865723
+///
+0 9600000 FILLER -4017.085205
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler407.rec"
+0 2500000 COUGH -972.341309
+///
+0 2500000 FILLER -978.540161
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler723.rec"
+0 800000 FILLER -309.827972
+///
+0 800000 COUGH -353.090240
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler312.rec"
+0 1600000 FILLER -623.051086
+///
+0 1600000 COUGH -646.118164
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler399.rec"
+0 1800000 FILLER -753.295715
+///
+0 1800000 COUGH -828.416382
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler135.rec"
+0 1100000 FILLER -464.816528
+///
+0 1100000 COUGH -510.853577
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler301.rec"
+0 1900000 FILLER -785.531128
+///
+0 1900000 COUGH -801.238403
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler105.rec"
+0 2300000 COUGH -1037.370361
+///
+0 2300000 FILLER -1040.963745
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler909.rec"
+0 23200000 FILLER -9947.598633
+///
+0 23200000 COUGH -10043.984375
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler214.rec"
+0 4400000 FILLER -1826.277344
+///
+0 4400000 COUGH -1953.087646
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler566.rec"
+0 1100000 FILLER -445.276581
+///
+0 1100000 COUGH -498.156403
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler239.rec"
+0 4700000 FILLER -2078.005371
+///
+0 4700000 COUGH -2164.236816
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler983.rec"
+0 1600000 FILLER -638.740723
+///
+0 1600000 COUGH -701.367920
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler802.rec"
+0 1300000 FILLER -645.905884
+///
+0 1300000 COUGH -746.139160
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler960.rec"
+0 800000 FILLER -395.243561
+///
+0 800000 COUGH -401.350159
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler938.rec"
+0 10500000 FILLER -4331.552734
+///
+0 10500000 COUGH -4364.471191
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler107.rec"
+0 4200000 FILLER -1925.222290
+///
+0 4200000 COUGH -1940.651367
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler524.rec"
+0 2500000 FILLER -1044.059204
+///
+0 2500000 COUGH -1196.817017
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler406.rec"
+0 5900000 FILLER -2582.009277
+///
+0 5900000 COUGH -2623.167725
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler903.rec"
+0 4100000 FILLER -1766.898193
+///
+0 4100000 COUGH -1780.354126
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler680.rec"
+0 3800000 FILLER -1616.762085
+///
+0 3800000 COUGH -1678.295776
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler215.rec"
+0 4100000 FILLER -1692.830566
+///
+0 4100000 COUGH -1771.946655
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler814.rec"
+0 1900000 FILLER -774.505371
+///
+0 1900000 COUGH -801.600464
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler10.rec"
+0 3600000 COUGH -1527.762329
+///
+0 3600000 FILLER -1549.094971
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler91.rec"
+0 2600000 FILLER -1089.915161
+///
+0 2600000 COUGH -1187.047485
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler665.rec"
+0 5800000 FILLER -2461.178955
+///
+0 5800000 COUGH -2518.926025
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler691.rec"
+0 10200000 FILLER -4327.841309
+///
+0 10200000 COUGH -4486.715332
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler197.rec"
+0 5000000 FILLER -2041.318970
+///
+0 5000000 COUGH -2098.971191
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler597.rec"
+0 1500000 COUGH -634.707336
+///
+0 1500000 FILLER -638.660767
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler715.rec"
+0 1200000 FILLER -521.709473
+///
+0 1200000 COUGH -551.615601
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler882.rec"
+0 800000 FILLER -330.819733
+///
+0 800000 COUGH -373.293518
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler125.rec"
+0 2500000 COUGH -1257.289917
+///
+0 2500000 FILLER -1265.032471
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler925.rec"
+0 2100000 FILLER -887.679443
+///
+0 2100000 COUGH -926.517883
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler659.rec"
+0 2300000 FILLER -1064.299438
+///
+0 2300000 COUGH -1127.741089
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler956.rec"
+0 1000000 FILLER -419.030640
+///
+0 1000000 COUGH -497.342896
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler278.rec"
+0 3200000 FILLER -1373.220703
+///
+0 3200000 COUGH -1462.966553
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler384.rec"
+0 1700000 FILLER -728.822205
+///
+0 1700000 COUGH -780.130127
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler643.rec"
+0 2500000 FILLER -1017.492981
+///
+0 2500000 COUGH -1080.212402
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler446.rec"
+0 4500000 FILLER -2041.031982
+///
+0 4500000 COUGH -2065.252930
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler616.rec"
+0 11400000 FILLER -4734.381348
+///
+0 11400000 COUGH -4809.481445
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler926.rec"
+0 1300000 FILLER -541.599915
+///
+0 1300000 COUGH -588.020386
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler790.rec"
+0 4400000 FILLER -1779.753662
+///
+0 4400000 COUGH -1780.397827
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler712.rec"
+0 2000000 COUGH -900.146057
+///
+0 2000000 FILLER -907.206787
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler436.rec"
+0 2500000 FILLER -1199.685913
+///
+0 2500000 COUGH -1238.641113
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler987.rec"
+0 1700000 FILLER -715.087646
+///
+0 1700000 COUGH -780.631836
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler140.rec"
+0 2500000 FILLER -1085.688843
+///
+0 2500000 COUGH -1218.810791
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler556.rec"
+0 1300000 FILLER -574.157043
+///
+0 1300000 COUGH -579.420776
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler564.rec"
+0 9000000 FILLER -3802.346191
+///
+0 9000000 COUGH -3942.188232
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler297.rec"
+0 1700000 FILLER -707.425537
+///
+0 1700000 COUGH -708.885010
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler962.rec"
+0 2300000 COUGH -1009.912476
+///
+0 2300000 FILLER -1036.224609
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler828.rec"
+0 2000000 COUGH -900.834351
+///
+0 2000000 FILLER -932.195923
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler737.rec"
+0 4400000 COUGH -1758.562134
+///
+0 4400000 FILLER -1782.827026
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler334.rec"
+0 1700000 COUGH -679.037964
+///
+0 1700000 FILLER -684.375122
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler150.rec"
+0 3500000 FILLER -1499.768921
+///
+0 3500000 COUGH -1567.866699
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler225.rec"
+0 900000 FILLER -352.393250
+///
+0 900000 COUGH -389.754089
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler946.rec"
+0 1800000 FILLER -742.814026
+///
+0 1800000 COUGH -784.805603
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler930.rec"
+0 7300000 FILLER -3059.987305
+///
+0 7300000 COUGH -3127.935059
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler536.rec"
+0 1700000 COUGH -753.630737
+///
+0 1700000 FILLER -783.417419
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler258.rec"
+0 1900000 FILLER -960.910583
+///
+0 1900000 COUGH -1136.532715
+.
+"/home/zhiwei/cough/htk/wav/non-cough/filler843.rec"
+0 1100000 FILLER -462.085815
+///
+0 1100000 COUGH -548.585938
+.

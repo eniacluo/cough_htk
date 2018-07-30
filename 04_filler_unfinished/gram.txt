@@ -1,0 +1,2 @@
+$SOUND = FILLER1 | FILLER2;
+( $SOUND )
